@@ -1,7 +1,6 @@
 ```mermaid
 erDiagram
-    AUTHOR ||--o{ BOOK : writes
-```
+    AUTHOR ||--o{ BOOK : writes ```
 erDiagram
     AUTHOR {
         int author_id PK
